@@ -1,12 +1,6 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vxaboveground/Overlord/refs/heads/main/Overlord-Server/public/assets/overlord.png" alt="Overlord" width="280" />
-</p>
-
 # Overlord
 
-# [TELEGRAM SERVER JOIN NOW NO EXCUSES WE GIVE SUPPORT AND IT'S FUN](https://t.me/WindowsBatch)
-
-Hello, I made this project for fun.
+I made this project to troll ben.
 
 The server is TypeScript on Node/Bun. The client is Go. Operators talk to the server through a web panel or the Electron desktop app, and agents connect over encrypted WebSockets.
 
